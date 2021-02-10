@@ -1,0 +1,34 @@
+{
+  "name": "full_stack_mooc_osa3",
+  "version": "0.0.1",
+  "description": "Harjoitus 3",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\"",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jharjunp/Full_Stack_Mooc_Osa3.git"
+  },
+  "author": "Jari the Great",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jharjunp/Full_Stack_Mooc_Osa3/issues"
+  },
+  "homepage": "https://github.com/jharjunp/Full_Stack_Mooc_Osa3#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.13",
+    "mongoose-unique-validator": "^2.0.3",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.19.0",
+    "nodemon": "^2.0.7"
+  }
+}

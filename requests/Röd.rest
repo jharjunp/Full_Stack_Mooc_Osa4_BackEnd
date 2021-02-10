@@ -1,0 +1,8 @@
+POST https://api.rodboka.no/api/login
+accept: application/json
+Content-Type: application/x-www-form-urlencoded
+
+{
+    "email": "jari.harjunpaa@autovista.fi",
+    "password": "NordicAPI787"
+}
