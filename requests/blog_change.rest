@@ -1,0 +1,9 @@
+PUT http://localhost:3001/api/blogs/6043a64ebb997fab70367df3
+Content-Type: application/json
+
+{
+    "title": "HenPekkana P",
+    "author": "5654564",
+    "url": "5654564",
+    "likes": "555"
+}

@@ -1,9 +1,11 @@
 POST http://localhost:3001/api/blogs/
 Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlNha3VNIiwiaWQiOiI2MDQzYmRkOGZkYjhhNDA0YTA4YWNkYjQiLCJpYXQiOjE2MTUxMTAyOTN9.qiBLkrvtv0e1vxK68zr_KErSXuHjUFSug08eVEQ5xTg
 
 {
-    "title": "Henna P",
-    "author": "5654564",
-    "url": "5654564",
-    "likes": "5654564"
+    "title": "Mahtava title",
+    "author": "Hemmo P",
+    "url": "http://google.com",
+    "likes": "100",
+    "userId": "6043bcdb1a3b4f93d42ad4a3"
 }
