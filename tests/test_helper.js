@@ -15,6 +15,7 @@ const initialBlogs = [
     title: 'Go To Statement Considered Harmful',
     author: 'Edsger W. Dijkstra',
     url: 'http://www.u.arizona.edu/~rubinson/copyright_violations/Go_To_Considered_Harmful.html',
+    user: '6043bcdb1a3b4f93d42ad4a3',
     likes: 5,
     __v: 0
   },
@@ -23,6 +24,7 @@ const initialBlogs = [
     title: 'Canonical string reduction',
     author: 'Edsger W. Dijkstra',
     url: 'http://www.cs.utexas.edu/~EWD/transcriptions/EWD08xx/EWD808.html',
+    user: '6043bcdb1a3b4f93d42ad4a3',
     likes: 12,
     __v: 0
   },
@@ -30,6 +32,7 @@ const initialBlogs = [
     title: 'First class tests',
     author: 'Robert C. Martin',
     url: 'http://blog.cleancoder.com/uncle-bob/2017/05/05/TestDefinitions.htmll',
+    user: '6043bcdb1a3b4f93d42ad4a3',
     likes: 10,
     __v: 0
   },
@@ -39,6 +42,7 @@ const initialBlogs = [
     author: 'Robert C. Martin',
     url: 'http://blog.cleancoder.com/uncle-bob/2017/03/03/TDD-Harms-Architecture.html',
     likes: 0,
+    user: '6043bcdb1a3b4f93d42ad4a3',
     __v: 0 },
   {
     _id: '5a422bc61b54a676234d17fc',
@@ -46,6 +50,7 @@ const initialBlogs = [
     author: 'Robert C. Martin',
     url: 'http://blog.cleancoder.com/uncle-bob/2016/05/01/TypeWars.html',
     likes: 2,
+    user: '6043bcdb1a3b4f93d42ad4a3',
     __v: 0
   }
 ]
